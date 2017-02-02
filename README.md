@@ -12,4 +12,4 @@ This is the website with information for the local Leipzig branch of [Brainhack 
 
 ## Registration
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVSRwNlrdezTa-P917TpXpoDzHPKpmDTpTwiRXECwxWCOxrg/viewform?embedded=true" width="700" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVSRwNlrdezTa-P917TpXpoDzHPKpmDTpTwiRXECwxWCOxrg/viewform?embedded=true" width="700" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
