@@ -6,4 +6,4 @@ This is the website with information for the local Leipzig branch of [Brainhack 
 
 More information coming soon...
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVSRwNlrdezTa-P917TpXpoDzHPKpmDTpTwiRXECwxWCOxrg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVSRwNlrdezTa-P917TpXpoDzHPKpmDTpTwiRXECwxWCOxrg/viewform?embedded=true" width="700" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
