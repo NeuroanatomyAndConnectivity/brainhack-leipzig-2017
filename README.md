@@ -8,8 +8,6 @@ This is the website with information for the local Leipzig branch of [Brainhack 
 
 ## Location
 
+Brainhack will be taking place in the **Library Seminar room**.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9972.633131330651!2d12.398546849999999!3d51.32660845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2856dce7b35998e4!2sMax+Planck+Institute+for+Human+Cognitive+and+Brain+Sciences!5e0!3m2!1sen!2sde!4v1486069790687" width="700" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-## Registration
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVSRwNlrdezTa-P917TpXpoDzHPKpmDTpTwiRXECwxWCOxrg/viewform?embedded=true" width="700" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
